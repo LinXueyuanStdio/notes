@@ -1,32 +1,35 @@
 [TOC]
 # notes
+
+个人学习备忘录
+
+> *TODO*: 加引用
+
 ------
 # MachineLearning
-## Regression回归
-### LinearRegression线性回归
-## Classification分类
-### LogisticRegression逻辑回归
-### SVM支持向量机
-### RandomForest随机森林
-## Clustering聚类
-### KneighborsK近邻算法
-### 基于密度的聚类
-## DimensionalityReduction降维
-### 奇异值分解
-### PCA主成分分析
+- Regression回归
+- Classification分类
+- Clustering聚类
+- DimensionalityReduction降维
 ------
 # DeepLearning
-
+- CNN 原理
+- RNN 原理
+- GAN 原理
+- tensorflow　实现
+- app 玩耍应用
 ------
 # math
+- 求导法则
+# mathModel　数模
 
-
-
-
-
-
-
-
+# Visualization
+- Matplotlib
+- seaborn
+- pycharts *TODO*
+# leetcode
+- SUMMARY
+- CodeTemplate
 
 
 
