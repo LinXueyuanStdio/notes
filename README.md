@@ -16,7 +16,7 @@
 - CNN 原理
 - RNN 原理
 - GAN 原理
-- Tensorflow　实现
+- TensorFlow　实现
 - PyTorch 实现
 - app 玩耍应用
 ------
