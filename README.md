@@ -16,7 +16,8 @@
 - CNN 原理
 - RNN 原理
 - GAN 原理
-- tensorflow　实现
+- Tensorflow　实现
+- PyTorch 实现
 - app 玩耍应用
 ------
 # math
@@ -26,7 +27,8 @@
 # Visualization
 - Matplotlib
 - seaborn
-- pycharts *TODO*
+- pyecharts
+
 # leetcode
 - SUMMARY
 - CodeTemplate
