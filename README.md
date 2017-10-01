@@ -1,6 +1,3 @@
-[TOC]
-# notes
-
 个人学习备忘录
 
 > *TODO*: 加引用
@@ -11,6 +8,7 @@
 - Classification分类
 - Clustering聚类
 - DimensionalityReduction降维
+
 ------
 # DeepLearning
 - CNN 原理
@@ -19,16 +17,21 @@
 - TensorFlow　实现
 - PyTorch 实现
 - app 玩耍应用
+
 ------
 # math
 - 求导法则
+
+------
 # mathModel　数模
 
+------
 # Visualization
 - Matplotlib
 - seaborn
 - pyecharts
 
+------
 # leetcode
 - SUMMARY
 - CodeTemplate
