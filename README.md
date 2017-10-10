@@ -1,5 +1,7 @@
 个人学习备忘录
 
+由于Github渲染`.ipynb`文件较慢，推荐[用nbviewer加速渲染](http://nbviewer.jupyter.org/github/LinXueyuanStdio/notes/tree/master/)
+
 > *TODO*: 加引用
 
 ------
@@ -24,6 +26,9 @@
 
 ------
 # mathModel　数模
+- numpy
+- Pandas
+- scipy
 
 ------
 # Visualization
