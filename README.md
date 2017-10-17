@@ -6,6 +6,7 @@
 
 ------
 # MachineLearning
+- [All总](http://nbviewer.jupyter.org/github/LinXueyuanStdio/notes/blob/master/MachineLearning/machine-learning.ipynb)
 - [Regression回归](http://nbviewer.jupyter.org/github/LinXueyuanStdio/notes/blob/master/MachineLearning/0.Regression%E5%9B%9E%E5%BD%92.ipynb)
 - [Classification分类](http://nbviewer.jupyter.org/github/LinXueyuanStdio/notes/blob/master/MachineLearning/1.Classification%E5%88%86%E7%B1%BB.ipynb)
 - [Clustering聚类](http://nbviewer.jupyter.org/github/LinXueyuanStdio/notes/blob/master/MachineLearning/2.Clustering%E8%81%9A%E7%B1%BB.ipynb)
