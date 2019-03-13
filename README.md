@@ -22,11 +22,11 @@
 - [app 玩耍应用](http://nbviewer.jupyter.org/github/LinXueyuanStdio/notes/tree/master/DeepLearning/app/)
 
 ------
-# math
+# Math
 - [求导法则](http://nbviewer.jupyter.org/github/LinXueyuanStdio/notes/blob/master/math/%E6%B1%82%E5%AF%BC%E6%B3%95%E5%88%99.ipynb)
 
 ------
-# mathModel　数模
+# Common
 - [numpy](http://nbviewer.jupyter.org/github/LinXueyuanStdio/notes/blob/master/mathModel/numpy.ipynb)
 - [Pandas](http://nbviewer.jupyter.org/github/LinXueyuanStdio/notes/blob/master/mathModel/Pandas.ipynb)
 - [scipy](http://nbviewer.jupyter.org/github/LinXueyuanStdio/notes/blob/master/mathModel/scipy.ipynb)
